@@ -129,4 +129,4 @@ Execute the program
 ![OUTPUT](./Image/TimeTable2.png)
 
 # RESULT:
-THe Program is Executed Successfully.
+The Program is Executed Successfully.
